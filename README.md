@@ -4,6 +4,12 @@ A CSE 421 Computer Networks project designed using Cisco Packet Tracer.
 
 ## Project Overview
 
+### Network Topology
+
+![QuakeNet Network Topology](Quakenet.image.jfif)
+
+*Figure 1: QuakeNet network topology designed in Cisco Packet Tracer.*
+
 QuakeNet is a network infrastructure designed to support earthquake monitoring, emergency communication, and disaster response.
 
 ## Technologies & Concepts
